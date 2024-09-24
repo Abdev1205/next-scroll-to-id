@@ -1,6 +1,6 @@
 {
   "name": "next-scroll-to-id",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this package will allow user to scroll certain id with option of bunch of customization props ",
   "main": "index.js",
   "scripts": {
