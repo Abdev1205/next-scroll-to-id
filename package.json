@@ -1,0 +1,30 @@
+{
+  "name": "next-scroll-to-id",
+  "version": "1.0.0",
+  "description": "this package will allow user to scroll certain id with option of bunch of customization props ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "keywords": [
+    "next",
+    "scroll",
+    "id",
+    "next-scroll",
+    "next-scroll-to-id"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abhaym1205/next-scroll-to-id.git"
+  },
+  "author": "abhaym1205@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.3.9",
+    "typescript": "^5.6.2"
+  }
+}
